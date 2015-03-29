@@ -1,0 +1,26 @@
+{
+"images" : [
+   {
+     "image_id":100,
+     "file_path":"/sdcard/Pictures/flight_bayview.jpg",
+     "next_image_id":"200",
+     "duration":4.0,
+     "coordinates":
+       [
+         {"lat":1},
+         {"long":1}
+       ],
+     "radius":0
+   },
+   {
+     "image_id":200,
+     "file_path":"/sdcard/Pictures/flight_planes.jpg",
+     "next_image_id":"300",
+     "duration":3.0
+   },
+   {
+     "image_id":300,
+     "file_path":"/sdcard/Pictures/tahoe_view.jpg",
+     "duration":3.5
+   }
+]}
