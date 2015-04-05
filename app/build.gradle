@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.example.viewanimation"
+        applicationId "com.ablajievschii.viewanimation"
         minSdkVersion 12
         targetSdkVersion 21
     }
